@@ -2,8 +2,8 @@ def division(num1, num2)
  quotient = num1/num2
 end
 
-def assign_variable(value)
-  return name(value)
+def assign_variable(name)
+  return x = name
 end
 
 def argue( )
