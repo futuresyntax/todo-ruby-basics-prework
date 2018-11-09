@@ -13,7 +13,8 @@ end
 def greeting(x,y)
 end
 
-def return_a_value
+def return_a_value(phrase = "Nice")
+  return phrase
 
 end
 
